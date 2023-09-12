@@ -16,7 +16,7 @@
     "final-form": "latest",
     "final-form-arrays": "latest",
     "formik": "latest",
-    "next": "latest",
+    "next": "^13.4.19",
     "react": "latest",
     "react-dom": "latest",
     "react-final-form": "latest",
