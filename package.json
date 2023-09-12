@@ -8,24 +8,24 @@
     "start": "next start"
   },
   "dependencies": {
-    "@material-ui/core": "^4.11.0",
-    "@material-ui/icons": "^4.9.1",
-    "@material-ui/lab": "^4.0.0-alpha.56",
-    "@material-ui/styles": "^4.10.0",
-    "babel-loader": "8.0.6",
-    "final-form": "^4.20.1",
-    "final-form-arrays": "^3.0.2",
-    "formik": "^2.1.5",
-    "next": "9.5.3",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-final-form": "^6.5.1",
-    "react-final-form-arrays": "^3.1.2",
-    "react-final-form-hooks": "^2.0.2",
-    "react-final-form-listeners": "^1.0.2",
-    "yup": "^0.29.3"
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/lab": "latest",
+    "@material-ui/styles": "latest",
+    "babel-loader": "latest",
+    "final-form": "latest",
+    "final-form-arrays": "latest",
+    "formik": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-final-form": "latest",
+    "react-final-form-arrays": "latest",
+    "react-final-form-hooks": "latest",
+    "react-final-form-listeners": "latest",
+    "yup": "latest"
   },
   "devDependencies": {
-    "babel-plugin-module-resolver": "4.0.0"
+    "babel-plugin-module-resolver": "latest"
   }
 }
